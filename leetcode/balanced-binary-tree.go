@@ -6,7 +6,7 @@
  *     Right *TreeNode
  * }
  */
-
+// https://leetcode.com/problems/balanced-binary-tree/
 func isBalanced(root *TreeNode) bool {
 	if root == nil {
 		return true
